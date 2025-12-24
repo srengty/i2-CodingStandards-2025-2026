@@ -3,6 +3,6 @@ public class Subject {
     int totalHours;
     public static void main(String[] args) {
         Subject s = new Subject();
-        System.out.println(s);
+        System.out.println(s);//Please make a table
     }
 }
